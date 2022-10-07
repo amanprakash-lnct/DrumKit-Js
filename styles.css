@@ -17,31 +17,31 @@ footer {
 }
 
 .q{
-  background-image: url("/images/crash.png");
+  background-image: url("images/crash.png");
   
 }
 .w{
-  background-image: url("/images/tom1.png");
+  background-image: url("images/tom1.png");
   
 }
 .e{
-  background-image: url("/images/tom2.png");
+  background-image: url("images/tom2.png");
   
 }
 .r{
-  background-image: url("/images/kick.png");
+  background-image: url("images/kick.png");
   
 }
 .t{
-  background-image: url("/images/tom3.png");
+  background-image: url("images/tom3.png");
   
 }
 .y{
-  background-image: url("/images/tom4.png");
+  background-image: url("images/tom4.png");
   
 }
 .u{
-  background-image: url("/images/snare.png");
+  background-image: url("images/snare.png");
   
 }
 .set {
